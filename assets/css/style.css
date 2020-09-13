@@ -1,0 +1,23 @@
+/* Se da un formato general a la página con algunos colores de fondo y alineaciones de texto */
+
+body*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+.title{
+    text-align: center;
+}
+
+.color{
+    background-color: #fff;
+    color: #000;
+    text-align: center;
+    height: 40px;
+    width: 100px;
+}
+.pos{
+    text-align: center;
+    padding-top: 3rem;
+}
