@@ -1,2 +1,4 @@
 # Pagina_sencilla-preguntas
-Programa interactivo con preguntas breves para interactuar con un usuario
+Tecnologías usadas: Html5, Css3 y Javascript
+
+Descripción: Programa interactivo con preguntas breves para interactuar con un usuario
